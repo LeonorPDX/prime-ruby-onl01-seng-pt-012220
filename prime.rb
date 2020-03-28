@@ -1,4 +1,4 @@
-def prime?(number)
+def not_now_prime?(number)
   return false if number <= 1
   
   root = Math.sqrt(number)
